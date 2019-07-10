@@ -1,4 +1,7 @@
-### Event
-minimal not thread safe event system.
+This header only repository include the files required for the creation of an event system (not thread safe).
 
-example usage for both 'Signal.h' & 'Property.h' can be found in 'Test.cpp'
+Signal.h icludes a basic signal-slot object.
+
+Property.h includes an observable property.
+
+Test.cpp includes a set of examples on how to use the included files.
