@@ -1,6 +1,6 @@
 This header only repository include the files required for the creation of an event system (not thread safe).
 
-Signal.h icludes a basic signal-slot object.
+Signal.h includes a basic signal-slot object.
 
 Property.h includes an observable property.
 
